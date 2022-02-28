@@ -1,0 +1,19 @@
+segment_sources:
+  P34FCE887:
+    type: origin_type
+    relation: translation
+    language: en
+  P33D1D93A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0426f241d0f74a89b6e730fd8c939bc4:
+    P34FCE887: 775ba953af174593a4c6c6b055eb35c4
+    P33D1D93A: fa8be0a66daa4490b9649fedc4beb3fd
+  a09ff227c3dd4bc1a7184673372902dc:
+    P34FCE887: a368821a95364f4fbd4e9c8134b6a417
+    P33D1D93A: 0c8a89de420942609f4659c1a960dc1f
+  578de0849fb24ff3bfeea95e14283f3f:
+    P34FCE887: b41aa0145845443f88649f2ad6554ef3
+    P33D1D93A: 78e2d63ced7847d3b64a556d176160de

@@ -1,0 +1,28 @@
+segment_sources:
+  P34FCE887:
+    type: origin_type
+    relation: translation
+    language: en
+  P72EB1F15:
+    type: origin_type
+    relation: translation
+    language: de
+  P0075D7BB:
+    type: origin_type
+    relation: translation
+    language: fr
+  P33D1D93A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c9cf275a5818433aadcd63ba700ee90f:
+    P34FCE887: b7b0438b433d410f804b0a2536374885
+    P72EB1F15: 6a9ff8dd74a14ea38a74c5f755a601e3
+    P0075D7BB: 182b014734ba4d38ac0cbafa5e14ae33
+    P33D1D93A: 3f4f9429bae34147872dbc00b6a3fa1f
+  ac34651b8e8e49ab92982a4a1d548049:
+    P34FCE887: c5f807f61f8a45f59f48bd08e85b0046
+    P72EB1F15: 55010f0402b8447b95dec28c82ffd597
+    P0075D7BB: dc104a52aef74496bbdd29108865839b
+    P33D1D93A: 63ba166af93141d69f063f19f42061ad
